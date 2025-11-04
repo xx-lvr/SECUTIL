@@ -1,6 +1,6 @@
 ## IPv4 vs IPv6
 이것들을 살펴보기 전에 ```옥텟(Octet)```이라는 것을 먼저 살펴보자\
-![alt text](../image/octet.png)
+![alt text](../image/octet.png)\
 옥텟이란, IP주소를 이진법으로 변환하여 8개씩 나눈 비트 단위를 말한다.
 ## IPv4
 IPv4는 3자리 숫자가 4마디로 표기되는 방식으로 각 마디를 ```옥텟(octet)```라고 부른다.\
